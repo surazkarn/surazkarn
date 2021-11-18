@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @surazkarn
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Html,CSS,JavaScript,JAVA
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Html,CSS,JavaScript,C++,C....
 - 📫 @suraz_devlover in Twitter.
 
 <!---
