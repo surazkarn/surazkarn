@@ -9,5 +9,5 @@
 surazkarn/surazkarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://app.daily.dev/suraz_devlover"><img src="https://api.daily.dev/devcards/1ee2bf8a6e3e4d06a9b93c68f951e3bc.png?r=anf" width="400" alt="Suraj Kumar Karn's Dev Card"/></a>!
-[Suraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=surazkarn&show_icons=true&theme=radical)
+<a href="https://app.daily.dev/suraz_devlover"><img src="https://api.daily.dev/devcards/1ee2bf8a6e3e4d06a9b93c68f951e3bc.png?r=anf" width="400" alt="Suraj Kumar Karn's Dev Card"/></a>
+![Suraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=surazkarn&show_icons=true&theme=radical)
