@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @surazkarn
 - My Social media handle:
 
-    <a href="https://www.facebook.com//Suraz Karn"><img src="https://image.flaticon.com/icons/png/512/124/124010.png" width="42" height="42"></a>
+    <a href="https://www.facebook.com/imsurazkarn/"><img src="https://image.flaticon.com/icons/png/512/124/124010.png" width="42" height="42"></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/suraz_devlover"><img src="https://image.flaticon.com/icons/png/512/124/124021.png" width="42" height="42"></a>
 &nbsp;&nbsp;&nbsp;
