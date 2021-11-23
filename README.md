@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @surazkarn
 - 👀 I’m interested in Web Development.
 - 📫 @suraz_devlover in Twitter.
-<h3 align="left">My Loved Languages</h3>
-<p align="left"><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><p></p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surazkarn&layout=compact)](https://github.com/surazkarn/github-readme-stats)
 
 [![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=surazkarn&theme=react-dark)](https://github.com/surazkarn/github-readme-activity-graph)
@@ -14,5 +11,6 @@
 surazkarn/surazkarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surazkarn&layout=compact)](https://github.com/surazkarn/github-readme-stats)
-
+<h3 align="left">My Loved Languages</h3>
+<p align="left"><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><p></p>
 --->
