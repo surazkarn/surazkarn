@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Html,CSS,JavaScript,C++,C....
 - 📫 @suraz_devlover in Twitter.
+[![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=surazkarn&theme=dracula)](https://github.com/surazkarn/github-readme-activity-graph)
 
 <!---
 surazkarn/surazkarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
