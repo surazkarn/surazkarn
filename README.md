@@ -1,4 +1,4 @@
-- # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Suraj Kumar Karn](https://ayushirawat.com/)
+- # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Suraj Kumar Karn]
 - My Social media handle:
 
     <a href="https://www.facebook.com/imsurazkarn/"><img src="https://image.flaticon.com/icons/png/512/124/124010.png" width="42" height="42"></a>
