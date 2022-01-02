@@ -8,11 +8,10 @@
     ![Profile views](https://gpvc.arturio.dev/surazkarn)
 <p><br/></p>
 
-[![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=surazkarn&theme=github-light&area=true&hide_border=true)](https://github.com/surazkarn/github-readme-activity-graph)
-
-![Suraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=surazkarn&show_icons=true&theme=github-light&area=true&hide_border=true)
 ![GitHub metrics](https://metrics.lecoq.io/surazkarn)  
 <p><br/></p>
+
+[![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=surazkarn&theme=github-light&area=true&hide_border=true)](https://github.com/surazkarn/github-readme-activity-graph)
   
  # ✨Happy Learning Life✨
 
@@ -23,6 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surazkarn&theme=github-light&area=true&hide_border=true)](https://github.com/surazkarn/github-readme-stats)[<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=surazkarn&theme=github-light&area=true&hide_border=true">](https://github.com/DenverCoder1/github-readme-streak-stats)
 
+![Suraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=surazkarn&show_icons=true&theme=github-light&area=true&hide_border=true)
 
 [<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=surazkarn&theme=github-light&area=true&hide_border=true">](https://github.com/DenverCoder1/github-readme-streak-stats)
 
