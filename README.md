@@ -8,10 +8,15 @@
     ![Profile views](https://gpvc.arturio.dev/surazkarn)
 <p><br/></p>
 
-![GitHub metrics](https://metrics.lecoq.io/surazkarn)  
-<p><br/></p>
+
 
 [![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=surazkarn&theme=github-light&area=true&hide_border=true)](https://github.com/surazkarn/github-readme-activity-graph)
+
+
+
+
+![GitHub metrics](https://metrics.lecoq.io/surazkarn)  
+<p><br/></p>
   
  # ✨Happy Learning Life✨
 
