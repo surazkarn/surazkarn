@@ -5,17 +5,6 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/suraz_devlover"><img src="https://image.flaticon.com/icons/png/512/124/124021.png" width="42" height="42"></a>
 &nbsp;&nbsp;&nbsp;
-    ![Profile views](https://gpvc.arturio.dev/surazkarn)
-<p><br/></p>
-
-
-
-[![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=surazkarn&theme=github-light&area=true&hide_border=true)](https://github.com/surazkarn/github-readme-activity-graph)
-
-
-
-
-![GitHub metrics](https://metrics.lecoq.io/surazkarn)  
 <p><br/></p>
   
  # ✨Happy Learning Life✨
@@ -24,6 +13,16 @@
 <!---
 surazkarn/surazkarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+ ![Profile views](https://gpvc.arturio.dev/surazkarn)
+<p><br/></p>
+![GitHub metrics](https://metrics.lecoq.io/surazkarn)  
+
+
+[![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=surazkarn&theme=github-light&area=true&hide_border=true)](https://github.com/surazkarn/github-readme-activity-graph)
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surazkarn&theme=github-light&area=true&hide_border=true)](https://github.com/surazkarn/github-readme-stats)[<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=surazkarn&theme=github-light&area=true&hide_border=true">](https://github.com/DenverCoder1/github-readme-streak-stats)
 
