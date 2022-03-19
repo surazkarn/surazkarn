@@ -7,7 +7,9 @@
 &nbsp;&nbsp;&nbsp;
 <p><br/></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surazkarn&theme=github-light&area=true&hide_border=true)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surazkarn&theme=github-light&area=true&hide_border=true)
+
+![Suraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=surazkarn&show_icons=true&theme=github-light&area=true&hide_border=true)
 
 <p><br/></p>  
 
