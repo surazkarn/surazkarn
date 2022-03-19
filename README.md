@@ -6,7 +6,8 @@
 <a href="https://twitter.com/suraz_devlover"><img src="https://image.flaticon.com/icons/png/512/124/124021.png" width="42" height="42"></a>
 &nbsp;&nbsp;&nbsp;
 <p><br/></p>
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surazkarn&theme=github-light&area=true&hide_border=true)]
+<p><br/></p>  
  # ✨Happy Learning Life✨
 
 
