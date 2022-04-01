@@ -1,9 +1,9 @@
  # Hey, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Suraz!
 - My Social media handle:
 
-    <a href="https://www.facebook.com/imsurazkarn/"><img src="https://image.flaticon.com/icons/png/512/124/124010.png" width="42" height="42"></a>
+    <a href="https://www.facebook.com/imsurazkarn/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" width="42" height="42"></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/suraz_devlover"><img src="https://image.flaticon.com/icons/png/512/124/124021.png" width="42" height="42"></a>
+<a href="https://twitter.com/suraz_devlover"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="42" height="42"></a>
 &nbsp;&nbsp;&nbsp;
 <p><br/></p>
 
