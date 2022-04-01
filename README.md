@@ -3,7 +3,7 @@
 
     <a href="https://www.facebook.com/imsurazkarn/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" width="42" height="42"></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/suraz_devlover"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="42" height="42"></a>
+<a href="https://twitter.com/surazkarn"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="42" height="42"></a>
 &nbsp;&nbsp;&nbsp;
 <p><br/></p>
 
