@@ -5,13 +5,15 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/surazkarn"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="42" height="42"></a>
 &nbsp;&nbsp;&nbsp;
-<p><br/></p>
+
+<img height="300" alt="Github" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" style="max-width:100%;">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surazkarn&theme=github-light&area=true&hide_border=true)
 
 ![Suraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=surazkarn&show_icons=true&theme=github-light&area=true&hide_border=true)
 
-<p><br/></p>  
+<p><br/></p>
+
 
  # ✨Happy Learning Life✨
 
@@ -27,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=surazkarn&theme=github-light&area=true&hide_border=true)](https://github.com/surazkarn/github-readme-activity-graph)
 
-
+<img height="300" alt="Github" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" style="max-width:100%;">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surazkarn&theme=github-light&area=true&hide_border=true)](https://github.com/surazkarn/github-readme-stats)[<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=surazkarn&theme=github-light&area=true&hide_border=true">](https://github.com/DenverCoder1/github-readme-streak-stats)
