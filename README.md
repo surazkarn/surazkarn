@@ -6,7 +6,7 @@
 <a href="https://twitter.com/surazkarn"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="42" height="42"></a>
 &nbsp;&nbsp;&nbsp;
 
-<img height="300" alt="Github" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" style="max-width:100%;">
+<a href="https://www.buymeacoffee.com/surazkarn8v"><img height="300" alt="Github" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" style="max-width:100%;"></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surazkarn&theme=github-light&area=true&hide_border=true)
 
