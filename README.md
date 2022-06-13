@@ -1,4 +1,4 @@
- # Hey, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Suraz!
+ # Hey, I am Suraz!
 - My Social media handle:
 
     <a href="https://www.facebook.com/imsurazkarn/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" width="42" height="42"></a>
@@ -6,9 +6,7 @@
 <a href="https://twitter.com/surazkarn"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="42" height="42"></a>
 &nbsp;&nbsp;&nbsp;
 
-
 <a href="https://www.buymeacoffee.com/surazkarn8v"><img height="300" alt="Github" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" style="max-width:100%;"></a>
-
 # Some of my project links
 - First portfolio : 
 http://suraz.me/FirstPortfolio/
@@ -29,9 +27,12 @@ http://suraz.me/Lets-Play-a-Maths-Game-/
 
 
  # ✨Happy Learning Life✨
-
+[![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=surazkarn&theme=github-light&area=true&hide_border=true)](https://github.com/surazkarn/github-readme-activity-graph)
 
 <!---
+
+ # Hey, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Suraz!
+
 surazkarn/surazkarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
