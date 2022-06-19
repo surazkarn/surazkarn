@@ -1,4 +1,4 @@
- # Hey, I am Suraz!
+ # Hey, I am Suraz! <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">
 - My Social media handle:
 
     <a href="https://www.facebook.com/imsurazkarn/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" width="42" height="42"></a>
