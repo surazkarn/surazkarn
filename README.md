@@ -1,7 +1,7 @@
 # Hey, I am Suraz! <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">
 I am third year Btech CSE Student. 
 # Some of my project links
-<a href="https://www.buymeacoffee.com/surazkarn8v"><img height="250" alt="Github" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" style="max-width:100%;"></a>
+<a href="https://www.buymeacoffee.com/surazkarn8v"><img height="200" alt="Github" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" style="max-width:100%;"></a>
 - First portfolio : 
 http://suraz.me/FirstPortfolio/ 
 - TechShip: A web and tech services website
