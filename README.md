@@ -1,10 +1,5 @@
  # Hey, I am Suraz! <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">
-- My Social media handle:
 
-    <a href="https://www.facebook.com/imsurazkarn/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" width="42" height="42"></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/surazkarn"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="42" height="42"></a>
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.buymeacoffee.com/surazkarn8v"><img height="300" alt="Github" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" style="max-width:100%;"></a>
 # Some of my project links
@@ -21,11 +16,19 @@ http://suraz.me/Lets-Play-a-Maths-Game-/
 
 
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surazkarn&theme=github-light&area=true&hide_border=true)
 
 ![Suraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=surazkarn&show_icons=true&theme=github-light&area=true&hide_border=true)
 
 <p><br/></p>
+
+# My Social media handle:
+
+<a href="https://www.facebook.com/imsurazkarn/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" width="42" height="42"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/surazkarn"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="42" height="42"></a>
+&nbsp;&nbsp;&nbsp;
 
 
  # ✨Happy Learning Life✨
