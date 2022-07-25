@@ -26,14 +26,10 @@ http://suraz.me/Lets-Play-a-Maths-Game-/
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surazkarn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=surazkarn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=surazkarn&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=surazkarn&icon=0&color=0)](https://visitcount.itsvg.in)
-
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/surazkarn8v)
 
@@ -43,6 +39,8 @@ http://suraz.me/Lets-Play-a-Maths-Game-/
 [![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=surazkarn&theme=github-light&area=true&hide_border=true)](https://github.com/surazkarn/github-readme-activity-graph)
 
 <!---
+
+[![](https://visitcount.itsvg.in/api?id=surazkarn&icon=9&color=3)(https://visitcount.itsvg.in)]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surazkarn&theme=github-light&area=true&hide_border=true)
 
