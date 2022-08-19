@@ -3,12 +3,6 @@
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suraj-kumar-karn-013b3620a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Surazkarn) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/surazkarn) 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/surazkarn/count.svg" />
-</p>
-
-<a href="https://www.buymeacoffee.com/surazkarn8v"><img height="200" alt="Github" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" style="max-width:100%;"></a>
 
 ## My Projects
 - First portfolio : 
@@ -39,7 +33,10 @@ http://suraz.me/Lets-Play-a-Maths-Game-/
 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/surazkarn8v)
 
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/surazkarn/count.svg" />
+</p>
 
  # ✨Happy Learning Life✨
 [![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=surazkarn&theme=github-light&area=true&hide_border=true)](https://github.com/surazkarn/github-readme-activity-graph)
