@@ -1,4 +1,4 @@
-# Hey, I am SURAJ <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">
+# Hey, Do you want to know about SURAJ ? <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px"> Read Below 
 Suraj is a Pre-Final year student pursuing Bachelor of Technology in Computer Science and Engineering. 
 He has good knowledge of Frontend Development (ReactJS) 
 and currently learning Backend Development (NodeJS). 
