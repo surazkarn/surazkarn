@@ -1,6 +1,6 @@
 ## <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">Hello, Do you want to know about SURAJ ? Read Below 
 Suraj is a Pre-Final year student pursuing Bachelor of Technology in Computer Science and Engineering. 
-He has good knowledge of Frontend Development (ReactJS) 
+He has good knowledge of Frontend Development 
 and currently learning Backend Development (NodeJS). 
 He loves programming in Java and JavaScript.
 He has good knowledge of Data Structures and Algorithms.
