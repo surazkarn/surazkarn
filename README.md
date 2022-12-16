@@ -1,4 +1,4 @@
-# Hey, Do you want to know about SURAJ ? <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px"> Read Below 
+## <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">Hello, Do you want to know about SURAJ ? Read Below 
 Suraj is a Pre-Final year student pursuing Bachelor of Technology in Computer Science and Engineering. 
 He has good knowledge of Frontend Development (ReactJS) 
 and currently learning Backend Development (NodeJS). 
@@ -6,11 +6,18 @@ He loves programming in Java and JavaScript.
 He has good knowledge of Data Structures and Algorithms.
 He loves exploring and learning new technologies.
 
-## Connect with SURAJ:
+## Connect with SURAJ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-karn-013b3620a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Surazkarn) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/surazkarn) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=blue)](mailto:surazkarn8848@gmail.com) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black)](mailto:surajkumarkarn10@gmail.com)
 
 
-## SURAJ's Projects
+## Check out SURAJ's projects below
+### Working on
+- Airline-Booking-Backend-System:
+https://github.com/surazkarn/Airline-Booking-Backend-System
+- my-telegram-bot
+https://github.com/surazkarn/my-telegram-bot
+
+### Live
 - First portfolio : 
 http://suraz.me/FirstPortfolio/ 
 - TechShip: A web and tech services website
@@ -31,23 +38,20 @@ http://suraz.me/Lets-Play-a-Maths-Game-/
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surazkarn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=surazkarn&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/surazkarn8v)
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/surazkarn/count.svg" />
 </p>
 
  # ✨Happy Learning Life✨
-[![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=surazkarn&theme=github-light&area=true&hide_border=true)](https://github.com/surazkarn/github-readme-activity-graph)
 
 <!---
+
+ [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/surazkarn8v)
+
+
+[![Suraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=surazkarn&theme=github-light&area=true&hide_border=true)](https://github.com/surazkarn/github-readme-activity-graph)
+
 
 [![](https://visitcount.itsvg.in/api?id=surazkarn&icon=9&color=3)(https://visitcount.itsvg.in)]
 
