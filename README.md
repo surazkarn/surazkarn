@@ -45,15 +45,14 @@ http://suraz.me/Lets-Play-a-Maths-Game-/
 ![](https://github-readme-stats.vercel.app/api?username=surazkarn&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=surazkarn&theme=dark&hide_border=true)<br/>
 
+ #  --------------------------✨Happy Learning Life✨-----------------------
+
+<!---
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/surazkarn/count.svg" />
 </p>
-
- # ✨Happy Learning Life✨
-
-<!---
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surazkarn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
