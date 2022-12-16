@@ -45,7 +45,7 @@ http://suraz.me/Lets-Play-a-Maths-Game-/
 ![](https://github-readme-stats.vercel.app/api?username=surazkarn&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=surazkarn&theme=dark&hide_border=true)<br/>
 
- #  --------------------------✨Happy Learning Life✨-----------------------
+ #  ---------------------✨Happy Learning Life✨-----------------
 
 <!---
 
