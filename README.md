@@ -6,10 +6,6 @@ He loves programming in Java and JavaScript.
 He has good knowledge of Data Structures and Algorithms.
 He loves exploring and learning new technologies.
 
-## Connect with SURAJ 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-karn-013b3620a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Surazkarn) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/surazkarn) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=blue)](mailto:surazkarn8848@gmail.com) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black)](mailto:surajkumarkarn10@gmail.com)
-
-
 ## Check out SURAJ's projects below
 ### Working on
 - Airline-Booking-Backend-System:
@@ -46,6 +42,9 @@ http://suraz.me/Lets-Play-a-Maths-Game-/
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=surazkarn&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=surazkarn&theme=dark&hide_border=true)<br/>
+
+## Connect with SURAJ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-karn-013b3620a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Surazkarn) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/surazkarn) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=blue)](mailto:surazkarn8848@gmail.com) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black)](mailto:surajkumarkarn10@gmail.com)
 
  #  ---------------------✨Happy Learning Life✨-----------------
 
