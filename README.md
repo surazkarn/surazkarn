@@ -6,14 +6,12 @@ He loves programming in Java and JavaScript.
 He has good knowledge of Data Structures and Algorithms.
 He loves exploring and learning new technologies.
 
-## Check out SURAJ's projects below
+## Check out some of his projects below
 ### Working on
-- Airline-Booking-Backend-System:
-https://github.com/surazkarn/Airline-Booking-Backend-System
 - Flight and Search Services Backend
 https://github.com/surazkarn/Flights-and-Search-Services-of-Airline-Booking-Backend-System
-- my-telegram-bot
-https://github.com/surazkarn/my-telegram-bot
+- Reminder Service
+https://github.com/surazkarn/ReminderService
 
 ### Live
 - First portfolio : 
@@ -28,7 +26,7 @@ http://suraz.me/Income-Manager-WebApp/
 http://suraz.me/Lets-Play-a-Maths-Game-/
 
 
-# 💻 SURAJ's Tech Stacks:
+# 💻 Tech Stacks in which Suraj works on :
 - Javascript
 - NodeJs
 - SQL
