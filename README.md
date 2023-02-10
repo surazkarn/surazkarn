@@ -10,10 +10,6 @@ He loves exploring and learning new technologies.
 ### Working on
 - Airline Management System
 https://github.com/surazkarn/Airline-Management-System
-- Flight and Search Services Backend
-https://github.com/surazkarn/Flights-and-Search-Services-of-Airline-Booking-Backend-System
-- Reminder Service
-https://github.com/surazkarn/ReminderService
 
 ### Live
 - First portfolio : 
