@@ -15,15 +15,17 @@ https://github.com/surazkarn/APIs-by-surazkarn
 
 ### Live
 - First portfolio : 
-http://suraz.me/FirstPortfolio/ 
+https://github.com/surazkarn/FirstPortfolio 
+
 - TechShip: A web and tech services website
-http://suraz.me/TechShip/
+https://github.com/surazkarn/TechShip
+
 - KiranaOnline website :
-http://suraz.me/KiranaOnline/
+[Link to repo](https://github.com/surazkarn/KiranaOnline)
 - Income manager web app: 
-http://suraz.me/Income-Manager-WebApp/
+[link to repo](https://github.com/surazkarn/Income-Manager-WebApp)
 - Math Game Website: 
-http://suraz.me/Lets-Play-a-Maths-Game-/
+[link to repo](https://github.com/surazkarn/Lets-Play-a-Maths-Game-)
 
 
 # 💻 Tech Stacks in which Suraj works on :
