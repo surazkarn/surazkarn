@@ -6,7 +6,7 @@ He loves programming in Java and JavaScript.
 He has good knowledge of Data Structures and Algorithms.
 He loves exploring and learning new technologies.
 
-## Check out some of his projects below
+## Check out some of my projects below
 
 ### Backend Projects
 - Airline Management System
