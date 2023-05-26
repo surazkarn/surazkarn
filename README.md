@@ -7,13 +7,14 @@ He has good knowledge of Data Structures and Algorithms.
 He loves exploring and learning new technologies.
 
 ## Check out some of his projects below
-### Working on
+
+### Backend Projects
 - Airline Management System
 https://github.com/surazkarn/Airline-Management-System
 - API development
 https://github.com/surazkarn/APIs-by-surazkarn
 
-### Live
+### Frontend Projects
 - First portfolio : 
 https://github.com/surazkarn/FirstPortfolio 
 
