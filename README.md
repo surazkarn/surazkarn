@@ -11,7 +11,7 @@ He loves exploring and learning new technologies.
 ### Backend Projects
 - Airline Management System
 https://github.com/surazkarn/Airline-Management-System
-- API development
+- APIs for different use cases
 https://github.com/surazkarn/APIs-by-surazkarn
 
 ### Frontend Projects
