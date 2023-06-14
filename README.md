@@ -41,7 +41,7 @@ https://github.com/surazkarn/TechShip
 - Frontend Development
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=surazkarn&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<!---![](https://github-readme-stats.vercel.app/api?username=surazkarn&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>--->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=surazkarn&theme=dark&hide_border=true)<br/>
 
 ## Connect with SURAJ 
