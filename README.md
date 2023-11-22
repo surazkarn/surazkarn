@@ -13,6 +13,8 @@ He loves exploring and learning new technologies.
 https://github.com/surazkarn/Airline-Management-System
 - APIs for different use cases
 https://github.com/surazkarn/APIs-by-surazkarn
+- URL Shortner
+  https://github.com/surazkarn/url_shortener
 
 ### Hackathon Project
 - Tracker Bot
