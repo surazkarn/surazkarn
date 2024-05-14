@@ -1,13 +1,12 @@
-## <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">Hello, Do you want to know about SURAJ ? Read Below 
-Suraj is a Final year student pursuing Bachelor of Technology in Computer Science and Engineering. 
-He has good knowledge of Frontend Development 
-and Backend Development. 
-He loves programming in Java and JavaScript.
-He has good knowledge of Data Structures and Algorithms.
-He loves exploring and learning new technologies.
+## <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">Meet Suraj, a Passionate Computer Science Undergrad.
+Suraj is a highly motivated undergraduate student pursuing a bachelor of technology degree in Computer Science and Engineering. He brings a strong foundation in building backend systems from the ground up, along with practical experience utilizing cloud platforms like AWS and its diverse services.
 
-## Check out some of my projects below
+An enthusiastic programmer, Suraj thrives in environments that leverage Java and JavaScript.  He possesses a solid understanding of Data Structures and Algorithms, further enhancing his problem-solving abilities.  Driven by a love of exploration, Suraj is constantly seeking out and mastering new technologies, making him a valuable asset to any team.
 
+## Check out some of his works below:
+### Working on:
+- Backend system of https://play.google.com/store/apps/details?id=com.issuecop.app&hl=en&gl=US
+  
 ### Backend Projects
 - Airline Management System
 https://github.com/surazkarn/Airline-Management-System
@@ -34,7 +33,7 @@ https://github.com/surazkarn/TechShip
 [link to repo](https://github.com/surazkarn/Lets-Play-a-Maths-Game-)
 
 
-# 💻 Tech Stacks in which Suraj works on :
+# 💻 Tech Stacks:
 - Javascript
 - NodeJs
 - SQL
