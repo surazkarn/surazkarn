@@ -1,13 +1,16 @@
-## <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">Meet Suraj, a Passionate Computer Science Undergrad.
-Suraj is a highly motivated undergraduate student pursuing a bachelor of technology degree in Computer Science and Engineering. He brings a strong foundation in building backend systems from the ground up, along with practical experience utilizing cloud platforms like AWS and its diverse services.
+# Welcome to my GitHub profile.
 
-An enthusiastic programmer, Suraj thrives in environments that leverage Java and JavaScript.  He possesses a solid understanding of Data Structures and Algorithms, further enhancing his problem-solving abilities.  Driven by a love of exploration, Suraj is constantly seeking out and mastering new technologies, making him a valuable asset to any team.
+Hello! I'm Suraj, a passionate Computer Science undergrad. I bring a strong foundation in building backend systems from the ground up, along with practical experience utilizing cloud platforms like AWS and its diverse services.
 
-## Check out some of his works below:
+As an enthusiastic programmer, I thrive in environments that leverage Java and JavaScript. I possess a solid understanding of Data Structures and Algorithms, further enhancing my problem-solving abilities. Driven by a love of exploration, I'm constantly seeking out and mastering new technologies, making me a valuable asset to any team.
+
+## Check out some of my works below:
 ### Working on:
-- Backend system of https://play.google.com/store/apps/details?id=com.issuecop.app&hl=en&gl=US
+- Backend system of IssueCop, a B2B SaaS platform for small businesses in India. https://play.google.com/store/apps/details?id=com.issuecop.app&hl=en&gl=US
   
-### Backend Projects
+### Projects
+
+- KareerNest : https://github.com/kareerconnect/kareernest?tab=readme-ov-file#kareernest
 - Airline Management System
 https://github.com/surazkarn/Airline-Management-System
 - APIs for different use cases
