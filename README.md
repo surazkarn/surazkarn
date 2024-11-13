@@ -6,7 +6,7 @@ As an enthusiastic programmer, I thrive in environments that leverage Java and J
 
 ## Check out some of my works below:
 ### Working on:
-- Backend system of IssueCop, a B2B SaaS platform for small businesses in India. https://play.google.com/store/apps/details?id=com.issuecop.app&hl=en&gl=US
+- Developed and Deployed [IssueCop](https://play.google.com/store/apps/details?id=com.issuecop.app), [IssueCop Web](https://web.issuecop.com/), [Ophiz](https://play.google.com/store/apps/details?id=com.ophiz.app&pcampaignid=web_share), and [Targafy](https://play.google.com/store/apps/details?id=com.terabiz.targafy&pcampaignid=web_share) to cloud production.
   
 ### Projects
 
