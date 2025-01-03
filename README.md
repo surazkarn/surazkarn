@@ -10,13 +10,15 @@ As an enthusiastic programmer, I thrive in environments that leverage Java and J
   
 ### Projects
 
-- KareerNest : https://github.com/kareerconnect/kareernest?tab=readme-ov-file#kareernest
+- Solwall (Solana Wallet Adapter): [Repo](https://github.com/surazkarn/solwall), [Live](https://solwall.netlify.app/)
+- DoDaily: [Live](https://dodaily.netlify.app/)
+- KareerNest : [Repo](https://github.com/kareerconnect/kareernest?tab=readme-ov-file#kareernest)
 - Airline Management System
-https://github.com/surazkarn/Airline-Management-System
+[Repo](https://github.com/surazkarn/Airline-Management-System)
 - APIs for different use cases
-https://github.com/surazkarn/APIs-by-surazkarn
+[Repo](https://github.com/surazkarn/APIs-by-surazkarn)
 - URL Shortner
-  https://github.com/surazkarn/url_shortener
+  [Repo](https://github.com/surazkarn/url_shortener)
 
 ### Hackathon Project
 - Tracker Bot
