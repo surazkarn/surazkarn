@@ -6,7 +6,7 @@ As an enthusiastic programmer, I thrive in environments that leverage Java and J
 
 ## Check out some of my works below:
 ### Working on:
-- Developed and Deployed [IssueCop](https://play.google.com/store/apps/details?id=com.issuecop.app), [IssueCop Web](https://web.issuecop.com/), [Ophiz](https://play.google.com/store/apps/details?id=com.ophiz.app&pcampaignid=web_share), and [Targafy](https://play.google.com/store/apps/details?id=com.terabiz.targafy&pcampaignid=web_share) to cloud production.
+- Developed and Deployed [Ophiz](https://play.google.com/store/apps/details?id=com.ophiz.app&pcampaignid=web_share), [ophiz.com](https://www.ophiz.com/), [IssueCop](https://play.google.com/store/apps/details?id=com.issuecop.app), and [Targafy](https://play.google.com/store/apps/details?id=com.terabiz.targafy&pcampaignid=web_share) to cloud production.
   
 ### Projects
 
