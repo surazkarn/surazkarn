@@ -5,9 +5,25 @@ Hello! I'm Suraj, a passionate Computer Science undergrad. I bring a strong foun
 As an enthusiastic programmer, I thrive in environments that leverage Java and JavaScript. I possess a solid understanding of Data Structures and Algorithms, further enhancing my problem-solving abilities. Driven by a love of exploration, I'm constantly seeking out and mastering new technologies, making me a valuable asset to any team.
 
 ## Check out some of my works below:
-### Working on:
-- Developed and Deployed [Ophiz](https://play.google.com/store/apps/details?id=com.ophiz.app&pcampaignid=web_share), [ophiz.com](https://www.ophiz.com/), [IssueCop](https://play.google.com/store/apps/details?id=com.issuecop.app), and [Targafy](https://play.google.com/store/apps/details?id=com.terabiz.targafy&pcampaignid=web_share) to cloud production.
-  
+
+### Led the backend and devops of following SAAS products :
+ - [Ophiz](https://play.google.com/store/apps/details?id=com.ophiz.app&pcampaignid=web_share), [web.ophiz.com](https://web.ophiz.com/)
+ - [IssueCop](https://play.google.com/store/apps/details?id=com.issuecop.app) , [web.issuecop.com](http://web.issuecop.com/)
+ - [Targafy](https://play.google.com/store/apps/details?id=com.terabiz.targafy&pcampaignid=web_share)
+ - [AssetCop](https://play.google.com/store/apps/details?id=com.assetscop.app&hl=en)
+ - Private Super Admin Dashboard
+ 
+### Designed and deployed :
+
+  - [greenstars.solutions](https://www.greenstars.solutions/)
+  - [zupertechltd.com](https://www.zupertechltd.com/)
+  - [assetcop.com](https://www.assetcop.com/)
+  - [issuecop.com](https://www.issuecop.com/)
+  - [targafy.com](https://www.targafy.com/)
+  - [ophiz.com](https://www.ophiz.com/)
+
+
+
 ### Projects
 
 - Solwall (Solana Wallet Adapter): [Repo](https://github.com/surazkarn/solwall), [Live](https://solwall.netlify.app/)
