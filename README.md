@@ -1,30 +1,33 @@
-# Welcome to my GitHub profile.
+# 🚀 Hi, I’m Suraj Karn  
 
-Hello! I'm Suraj, a passionate Computer Science undergrad. I bring a strong foundation in building backend systems from the ground up, along with practical experience utilizing cloud platforms like AWS and its diverse services.
-
-As an enthusiastic programmer, I thrive in environments that leverage Java and JavaScript. I possess a solid understanding of Data Structures and Algorithms, further enhancing my problem-solving abilities. Driven by a love of exploration, I'm constantly seeking out and mastering new technologies, making me a valuable asset to any team.
+I’m a Computer Science graduate focused on building scalable backend systems and real-world SaaS products. I’ve led backend and DevOps for multiple production applications used by businesses and teams.
 
 ## Check out some of my works below:
 
 ### Led the backend and devops of following SAAS products :
- - [Ophiz](https://play.google.com/store/apps/details?id=com.ophiz.app&pcampaignid=web_share), [web.ophiz.com](https://web.ophiz.com/)
- - [IssueCop](https://play.google.com/store/apps/details?id=com.issuecop.app) , [web.issuecop.com](http://web.issuecop.com/)
- - [Targafy](https://play.google.com/store/apps/details?id=com.terabiz.targafy&pcampaignid=web_share)
- - [AssetCop](https://play.google.com/store/apps/details?id=com.assetscop.app&hl=en)
- - Private Super Admin Dashboard
+ - [Ophiz](https://play.google.com/store/apps/details?id=com.ophiz.app&pcampaignid=web_share), [web.ophiz.com](https://web.ophiz.com/) : Human Resource Management Solution
+ - [Kokuun](https://www.kokuun.org/) : Global wellbeing community
+ - [Zuperhire](https://play.google.com/store/apps/details?id=com.zuperhire.app) : Job seeking & hiring platform 
+ - [Debtorz](https://play.google.com/store/apps/details?id=com.debtorz.app) , [web.debtorz.com](https://web.debtorz.com/) : Debt management solution
+ - [IssueCop](https://play.google.com/store/apps/details?id=com.issuecop.app) , [web.issuecop.com](http://web.issuecop.com/) : Issuetracking and management solution for SMEs
+ - [Targetoz](https://play.google.com/store/apps/details?id=com.targetoz.app) : Structured goal management solution to track employee goals, monitor progress in real time, and improve team productivity. 
+ - [AssetCop](https://play.google.com/store/apps/details?id=com.assetscop.app&hl=en) : Powerful industrial asset management solution built for operations teams, field staff, and business owners who need full control of physical equipment.
+ - [DezkCop](https://desk.zupertrak.com/) : Desktop tracking solution
+ - Private Super Admin Pannels
  
-### Designed and deployed :
+### Designed, built and deployed :
 
   - [greenstars.solutions](https://www.greenstars.solutions/)
   - [zupertechltd.com](https://www.zupertechltd.com/)
   - [assetcop.com](https://www.assetcop.com/)
   - [issuecop.com](https://www.issuecop.com/)
   - [targafy.com](https://www.targafy.com/)
+  - [kokuun.org](https://www.kokuun.org/)
   - [ophiz.com](https://www.ophiz.com/)
 
 
 
-### Projects
+### Other Projects
 
 - Solwall (Solana Wallet Adapter): [Repo](https://github.com/surazkarn/solwall), [Live](https://solwall.netlify.app/)
 - DoDaily: [Live](https://dodaily.netlify.app/)
@@ -36,12 +39,11 @@ As an enthusiastic programmer, I thrive in environments that leverage Java and J
 - URL Shortner
   [Repo](https://github.com/surazkarn/url_shortener)
 
-### Hackathon Project
 - Tracker Bot
   https://github.com/surazkarn/tracker-bot
-### Frontend Projects
+  
 - First portfolio : 
-https://github.com/surazkarn/FirstPortfolio 
+https://github.com/surazkarn/FirstPortfolio
 
 - TechShip: A web and tech services website
 https://github.com/surazkarn/TechShip
@@ -53,17 +55,6 @@ https://github.com/surazkarn/TechShip
 - Math Game Website: 
 [link to repo](https://github.com/surazkarn/Lets-Play-a-Maths-Game-)
 
-
-# 💻 Tech Stacks:
-- Javascript
-- NodeJs
-- SQL
-- MongoDB
-- ExpressJS
-- JAVA
-- Data Structure and Algorithms
-- Backend Development
-- Frontend Development
 
 # 📊 GitHub Stats:
 <!---![](https://github-readme-stats.vercel.app/api?username=surazkarn&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>--->
